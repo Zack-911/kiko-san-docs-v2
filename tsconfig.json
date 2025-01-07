@@ -19,7 +19,7 @@
       }
     ],
     "paths": {
-      "@/*": ["./app/*"]  // Adjusted path to point to the 'app' folder
+      "@/*": ["./src/app/*"]  // Adjusted path to point to the 'app' folder
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],

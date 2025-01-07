@@ -2,13 +2,13 @@
 
 "use client";
 
-import "@/styles/globals.scss";
-import "@/styles/partials/_navbar.scss";
-import "@/styles/partials/_showcase.scss";
-import "@/styles/partials/_about.scss";
-import "@/styles/partials/_joinUs.scss";
-import "@/styles/partials/_footer.scss";
-import '@/styles/partials/_docs.scss';
+import "../styles/globals.scss";
+import "../styles/partials/_navbar.scss";
+import "../styles/partials/_showcase.scss";
+import "../styles/partials/_about.scss";
+import "../styles/partials/_joinUs.scss";
+import "../styles/partials/_footer.scss";
+import '../styles/partials/_docs.scss';
 
 import "aos/dist/aos.css"; // Import AOS styles
 import { useEffect } from "react";
