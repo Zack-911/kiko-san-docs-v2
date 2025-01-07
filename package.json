@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "clear && next dev",
-    "build": "clear && next build",
-    "start": "clear && next start",
-    "lint": "clear && next lint"
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "aos": "^2.3.4",
