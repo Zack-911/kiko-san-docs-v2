@@ -41,7 +41,7 @@ const Navbar: React.FC = () => {
               </Link>
             </li>
             <li>
-              <Link className="p-color" href="https://kikosan.gitbook.io">
+              <Link className="p-color" href="/docs">
                 Documentation
               </Link>
             </li>

@@ -4,9 +4,6 @@
 
 import "../styles/globals.scss";
 import "../styles/partials/_navbar.scss";
-import "../styles/partials/_showcase.scss";
-import "../styles/partials/_about.scss";
-import "../styles/partials/_joinUs.scss";
 import "../styles/partials/_footer.scss";
 import '../styles/partials/_docs.scss';
 
@@ -27,7 +24,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>KikoSan | Home</title>
+        <title>KikoSan | Documentation</title>
       </head>
       <body>
         {/* You can still keep the child content here */}
