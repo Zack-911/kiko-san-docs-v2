@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import botOnlineStatus from "../utils/images/botStatus.svg";
+import botOnlineStatus from "@/utils/images/botStatus.svg";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css"; // Import AOS styles
